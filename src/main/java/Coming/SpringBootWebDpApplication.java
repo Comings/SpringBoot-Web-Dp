@@ -9,6 +9,7 @@ public class SpringBootWebDpApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebDpApplication.class, args);
 		System.out.println("push!");
+                System.out.println("pull!");
 	}
 
 }
